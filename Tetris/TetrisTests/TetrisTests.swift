@@ -2,7 +2,7 @@
 //  TetrisTests.swift
 //  TetrisTests
 //
-//  Created by Sam Koskei on 16/03/2016.
+//  Created by Mark Kipyegon Koskei on 16/03/2016.
 //
 //
 
